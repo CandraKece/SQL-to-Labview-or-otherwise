@@ -2,8 +2,8 @@
 this is my homework to make CRUD in labview that can connect with sql database
 
 tools that i used during this homework
--LabVIEW 2024
--SQL Server Management Studio 2020
+- LabVIEW 2024
+- SQL Server Management Studio 2020
 
 this file contain :
 - Labview send to sql  with DB connectivity toolkit
